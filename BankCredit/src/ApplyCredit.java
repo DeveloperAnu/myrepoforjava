@@ -11,7 +11,7 @@ public class ApplyCredit {
 
 		UserDetails user1 = new UserDetails();
 		user1.setAccount_Number(1111111111L);
-		user1.setAddress("3251 s parker rd");
+		user1.setAddress("3351 s parker rd");
 		user1.setBalance(10500.00);
 		user1.setCitizenship("GC1");
 		user1.setDob("01/01");
